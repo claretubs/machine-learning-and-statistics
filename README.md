@@ -14,9 +14,10 @@ by Clare Tubridy
 
 ## Background
 ### Tasks
-
+In this collection of tasks, there are a series of programming and statistical challenges. The first task involves writing a Python function to approximate square roots using Newton's method, without relying on the power operator or external packages. Following that task, The first task involves writing a Python function to approximate square roots using Newton's method, without relying on the power operator or external packages. The third task conducts a t-test on the penguins dataset to determine if there exists a significant difference in body mass between male and female gentoo penguins. Moving on to the fourth task, an analysis of the famous iris dataset and ascertain whether the setosa class is easily separable from the other two classes. Lastly, Principal Component Analysis (PCA) on the iris dataset was executed, reducing the dimensions to two.
 
 ### Project
+This project explores the application of supervised machine learning algorithms, specifically focusing on the K-Nearest Neighbours (KNN) and Support Vector Machine (SVM) classifier, using the well-known Iris flower dataset.
 
 ## How to Run Code
 1. Install Ananconda.
